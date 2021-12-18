@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src ="https://github.com/Mosericko/Mosericko/blob/main/header.png">
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mosericko&show_icons=true&theme=algolia" />
 
