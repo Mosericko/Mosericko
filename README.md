@@ -1,4 +1,4 @@
-<img align="left" src ="https://komarev.com/ghpvc/?username=Mosericko&color=050F2C">
+<img align="left" src ="https://komarev.com/ghpvc/?username=Mosericko&color=2CDD97">
 &nbsp  
 <img src ="https://github.com/Mosericko/Mosericko/blob/main/header.png">
 
