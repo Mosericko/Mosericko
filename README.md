@@ -1,6 +1,6 @@
 <img align="left" src ="https://komarev.com/ghpvc/?username=Mosericko&color=00ADFE">
 &nbsp  
-<img src ="https://github.com/Mosericko/Mosericko/blob/main/githubheader.png">
+<img src ="https://github.com/Mosericko/Mosericko/blob/main/github-header.png">
 
 A **Software Developer** by Heart. I love building Android applications that have a rich user experience. I am a **simple** guy with a taste for the simple things in life, which is reflected in my **minimalistic** yet **sophisticated** designs. I enjoy coming up with **solutions** to problems through the use of tech. I am extremely **detail-oriented** and **Analytical** in everything I do because I believe the **devil is in the details**. I am currently transitioning from building Apps with **Java** to primarily developing with **Kotlin**.
 I'm also interested in joining the **Android Open Source Community** as I strive to **learn** and **contribute**. To get in touch with me or link up, you can do so below through **Twitter** or **Gmail**. My Github stats are as follows:
