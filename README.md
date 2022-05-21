@@ -15,5 +15,4 @@ I'm also interested in joining the **Android Open Source Community** as I strive
  
  
  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosericko&layout=compact&theme=algolia)](https://github.com/mosericko/github-readme-stats) -->
-<!-- <img align = "left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosericko&layout=compact&theme=blue-green"/> -->
+
